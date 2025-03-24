@@ -1,16 +1,17 @@
 # flutter_task_app
 
-A new Flutter project.
+A Flutter project demonstrating a sliding blue screen with categories and a floating action button (FAB) animation effect.
 
-## Getting Started
+## 📱 Features
+- **Sliding Blue Screen:** Scroll up the FAB to reveal a blue screen with category options.  
+- **Smooth Animations:** Includes animation effects for the FAB and the sliding screen.  
+- **Gestures:** Supports vertical drag gestures to trigger the screen animation.  
+- **Responsive UI:** Works smoothly on both Android and iOS devices.  
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+Ensure you have the following installed:
+- [Flutter](https://docs.flutter.dev/get-started/install) (version 3.10+ recommended)  
+- Dart SDK  
+- Android Studio or Visual Studio Code 
